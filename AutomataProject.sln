@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomataProject", "AutomataProject\AutomataProject.csproj", "{CC5129F3-5D64-4C70-A180-178F0F950C7F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "AutomataSetup", "AutomataSetup\AutomataSetup.vdproj", "{A36007E9-53BF-4EE0-A4D4-7B9D64A94DC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC5129F3-5D64-4C70-A180-178F0F950C7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC5129F3-5D64-4C70-A180-178F0F950C7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC5129F3-5D64-4C70-A180-178F0F950C7F}.Debug|x86.ActiveCfg = Debug|x86
+		{CC5129F3-5D64-4C70-A180-178F0F950C7F}.Debug|x86.Build.0 = Debug|x86
+		{CC5129F3-5D64-4C70-A180-178F0F950C7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC5129F3-5D64-4C70-A180-178F0F950C7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC5129F3-5D64-4C70-A180-178F0F950C7F}.Release|x86.ActiveCfg = Release|x86
+		{CC5129F3-5D64-4C70-A180-178F0F950C7F}.Release|x86.Build.0 = Release|x86
+		{A36007E9-53BF-4EE0-A4D4-7B9D64A94DC8}.Debug|Any CPU.ActiveCfg = Debug
+		{A36007E9-53BF-4EE0-A4D4-7B9D64A94DC8}.Debug|x86.ActiveCfg = Debug
+		{A36007E9-53BF-4EE0-A4D4-7B9D64A94DC8}.Release|Any CPU.ActiveCfg = Release
+		{A36007E9-53BF-4EE0-A4D4-7B9D64A94DC8}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAF32D37-3045-4EAB-B202-F36F3C63833E}
+	EndGlobalSection
+EndGlobal
